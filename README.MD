@@ -1,8 +1,8 @@
-Requirements
+## Requirements
 CMake 3.x
 GLFW 3.x
 
-Windows build config
+## Windows build config
 ❌ BUILD_SHARED_LIBS
 ✔️ GLFW_BUILD_DOCS
 ✔️ GLFW_BUILD_EXAMPLES
